@@ -106,8 +106,6 @@ void LexikalisElemzes(const string& utasitas) {
 
 int main() {
     string utasitasA = "Nagy21<=10<>11:=Kiss22{Nagy23}(:aa=bb:)$";
-
-
     LexikalisElemzes(utasitasA);
 
 

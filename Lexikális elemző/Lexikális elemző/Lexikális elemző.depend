@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1773175663 source:c:\users\user\desktop\pti-bsc\pti-bsc 4 félév\fordítóprogramok\jó lehet beadandónak\lexikális elemzõ\lexikális elemzõ\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cctype>
+
