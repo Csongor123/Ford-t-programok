@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1773058873 source:c:\users\user\desktop\pti-bsc\pti-bsc 4 félév\fordítóprogramok\jó lehet beadandónak\felülrõl lefelé elemzõ\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
+1773214912 source:c:\users\user\desktop\pti-bsc\pti-bsc 4 félév\fordítóprogramok\jó lehet beadandónak\felülrõl lefelé haladó elemzõ\main.cpp
+	<string>
+	<cctype>
+	<string>
+	<iostream>
+	<string>
+	<cctype>
+
