@@ -1,0 +1,49 @@
+1. Csak a-k és b-k (lezáróval)
+3
+S
+S->aS
+S->bS
+S->#
+aaab
+
+2. Palindróm-szerű szerkezet
+4
+S
+S->aSa
+S->bSb
+S->a
+S->b
+abba
+
+3. Egyszerű egybetűs nyelv
+2
+S
+S->a
+S->b
+b
+
+4. Láncolt nemterminálisok
+4
+S
+S->AB
+A->a
+A->b
+B->c
+ac
+
+5. Mélyebb egymásba ágyazás
+5
+S
+S->aSb
+S->aAb
+A->aAb
+A->ab
+aaabbb
+
+6. Lambda szabállyal
+3
+S
+S->aS
+S->bA
+A->#
+ab
